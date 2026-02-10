@@ -1,9 +1,9 @@
 # CST8915 Lab 1: Algonquin Pet Store on Azure VM
 
-**Student Name**: Akash Patel
-**Student ID**: 041269598
-**Course**: CST8915 Full-stack Cloud-native Development
-**Semester**: Winter 2026
+- **Student Name**: Akash Patel
+- **Student ID**: 041269598
+- **Course**: CST8915 Full-stack Cloud-native Development
+- **Semester**: Winter 2026
 
 ---
 
