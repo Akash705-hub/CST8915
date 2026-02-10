@@ -9,7 +9,7 @@
 
 ## Demo Video
 
-🎥 I added the video under over here: /Video/Lab1.mp4
+🎥 I added the video under over here: [Click here](https://drive.google.com/file/d/1Ij304F-K6tpYlryo4Qj2TIRF-bPFGe_r/view?usp=sharing)
 
 ---
 
@@ -44,5 +44,5 @@ Challenges
 
 ## Acknowledgments
 
-https://github.com/ramymohamed10/26W_CST8915_Lab1
-https://www.youtube.com/watch?v=5tMGdEtBOrs&t=1s
+- https://github.com/ramymohamed10/26W_CST8915_Lab1
+- https://www.youtube.com/watch?v=5tMGdEtBOrs&t=1s
