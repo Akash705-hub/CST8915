@@ -32,3 +32,4 @@
 
 - https://github.com/ramymohamed10/26W_CST8915_Lab1
 - https://www.youtube.com/watch?v=5tMGdEtBOrs&t=1s
+- https://www.youtube.com/watch?v=uR8OtB1kOr8
