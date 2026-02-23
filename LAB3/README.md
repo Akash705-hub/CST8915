@@ -9,7 +9,7 @@
 
 ## Demo Video
 
-🎥 I added the video under over here: Click Here
+🎥 I added the video under over here: [Click Here](https://drive.google.com/file/d/1oVh1rGSHCP6U3ce6O9HoL4RkCdOY0Dob/view?usp=sharing)
 
 ---
 
@@ -32,3 +32,4 @@
 
 - https://github.com/ramymohamed10/26W_CST8915_Lab1
 - https://www.youtube.com/watch?v=5tMGdEtBOrs&t=1s
+- https://www.youtube.com/watch?v=uR8OtB1kOr8
