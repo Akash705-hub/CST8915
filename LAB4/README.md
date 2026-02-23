@@ -1,4 +1,4 @@
-# CST8915 Lab 2: Deploying the Algonquin Pet Store on Azure
+# CST8915 Lab 4: Introduction to Docker
 
 - **Student Name**: Akash Patel
 - **Student ID**: 041269598
