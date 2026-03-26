@@ -6,6 +6,8 @@
 - **Semester**: Winter 2026
 
 ---
+Note: I attached the screenshot for reference
+---
 
 ## Analysis
 
