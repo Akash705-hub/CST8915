@@ -1,4 +1,4 @@
-# CST8915 Lab 4: Introduction to Kubernetes Basics
+# CST8915 Lab 7: Introduction to Kubernetes Basics
 
 - **Student Name**: Akash Patel
 - **Student ID**: 041269598

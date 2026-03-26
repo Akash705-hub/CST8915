@@ -1,4 +1,4 @@
-# CST8915 Lab 4: Containerizing the Algonquin Pet Store with Docker
+# CST8915 Lab 6: Containerizing the Algonquin Pet Store with Docker
 
 - **Student Name**: Akash Patel
 - **Student ID**: 041269598
